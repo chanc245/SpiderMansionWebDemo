@@ -71,18 +71,18 @@ function setup() {
   S0about = new ShowHint(830, 975, 481, 529, S0_about, 848, 868, 270, 290);
   S0credit = new ShowHint(830, 975, 434, 482, S0_credit, 853, 873, 277, 297);
 
-  S6ready = new ShowHint(520, 650, 225, 255, S6_ready, 633, 703, 442, 477);
-  S6answer = new ShowHint(290, 360, 442, 477, S6_answer, 0, 0, 0, 0);
-  S6rules = new ShowHint(915, 939, 228, 252, S6_rules, 860, 880, 318, 338);
-  S6clues = new ShowHint(670, 800, 225, 255, S6_clues, 700, 730, 100, 130);
+  S6ready = new ShowHint(520, 650, 225, 255, S6_ready, 682, 732, 120, 160);
+  S6answer = new ShowHint(291, 341, 120, 160, S6_answer, 0, 0, 0, 0);
+  S6rules = new ShowHint(915, 939, 228, 252, S6_rules, 910, 930, 40, 60);
+  S6clues = new ShowHint(670, 800, 225, 255, S6_clues, 280, 300, 455, 475);
 
   //ansInput creation
   ansInput = createInput();
 
-  ansInput.position(181, 400);
+  ansInput.position(197, 87);
 
   ansInput.style("width", "630px");
-  ansInput.style("height", "50px");
+  ansInput.style("height", "39px");
 
   ansInput.style("background-color", "#D9D9D9");
   ansInput.style("border-radius", "10px");

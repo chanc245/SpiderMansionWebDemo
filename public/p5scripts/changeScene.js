@@ -128,11 +128,11 @@ function scene6() {
   S6answer.display();
   S6answer.exit();
 
-  if (mouseWithin(290, 360, 442, 477) && mouseIsPressed) {
+  if (mouseWithin(291, 341, 120, 160) && mouseIsPressed) {
     ansInput.show();
   }
 
-  selectSectionGotoNoline(445, 545, 465, 500, 7);
+  selectSectionGotoNoline(462, 562, 135, 170, 7);
 
   pop();
 }
