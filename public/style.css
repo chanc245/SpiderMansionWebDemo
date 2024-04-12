@@ -193,7 +193,6 @@ body {
   background-color: rgb(39, 39, 39);
 
   position: absolute;
-  /* or 'fixed' if you want it to stay in place on scroll */
   left: 385px;
   top: 265px;
 }
