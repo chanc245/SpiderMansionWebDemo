@@ -1,18 +1,19 @@
-## Spider Mansion Web Demo
+# Spider Mansion Web Demo
 
 ![Spider Mansion banner](/assets/readme-img/Banner.jpg)
 [**Try this demo!**](https://spider-mansion-web-demo.onrender.com/)
 
 [Spider Mansion Offical Website](https://spidermansion.cargo.site/)
+
 [Spider Mansion Kickstarter](https://www.kickstarter.com/projects/havenever/spider-mansion)
 
-# What is this game?
+## What is this game?
 
 Welcome to Spider Mansion, a horror puzzle game where you take on the role of a
 nanny tasked with caring for a young girl named Eva. Brace yourself for a series
 of lateral thinking puzzles!
 
-# How we started
+## How we started
 
 One of our teammates had the interesting idea of adapting lateral thinking
 puzzles into horror visual-novel game. These puzzles typically require
@@ -28,7 +29,7 @@ Visually, the game will have an early 2000s horror RPG aesthetic, contrasting
 with the modern twist of using an AI communication system as the main gameplay
 mechanic.
 
-# Why you should play it
+## Why you should play it
 
 Calling all mystery fanatics! Are you ready for a horror quiz game where
 survival hinges on your wit? If you crave a challenge, this is the game for you.
@@ -40,7 +41,10 @@ overcome any obstacle.
 
 Who knows? You might _just_ survive...
 
-# Dependencies
+## Dependencies
 
 [OpenAI API](https://platform.openai.com/docs/introduction)
-[Gemini API](https://ai.google.dev/) [node.js](https://nodejs.org/)
+
+[Gemini API](https://ai.google.dev/)
+
+[node.js](https://nodejs.org/)
